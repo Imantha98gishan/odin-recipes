@@ -1,2 +1,2 @@
 # odin-recipes
-This is Odin Assignment on
+This is Odin Assignment on Recipes
