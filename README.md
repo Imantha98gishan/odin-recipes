@@ -9,5 +9,5 @@ This is Odin Assignment on Recipes
                    - git add   \
                    - git push  \
                    - git commit \
-                   - html basic \
+                   - html basic 
 
